@@ -1,0 +1,10 @@
+[33m[2026-11-05 17:16:03] [main.main] [main.go:15] 配置文件读取成功，当前配置文件路径为：setting.yaml[0m
+[33m[2026-11-05 17:16:03] [main.main] [main.go:16] xxxxxx[0m
+[31m[2026-11-05 17:16:03] [main.main] [main.go:17] ddddddddd[0m
+[37m[2026-11-05 17:16:03] [main.main] [main.go:18] debug信息[0m
+[34m[2026-11-05 17:16:03] [main.main] [main.go:19] info信息[0m
+[33m[warning] [2026-11-05 17:22:09][main.main] [main.go:15] 配置文件读取成功，当前配置文件路径为：setting.yaml[0m
+[33m[warning] [2026-11-05 17:22:09][main.main] [main.go:16] xxxxxx[0m
+[31m[error] [2026-11-05 17:22:09][main.main] [main.go:17] ddddddddd[0m
+[37m[debug] [2026-11-05 17:22:09][main.main] [main.go:18] debug信息[0m
+[34m[info] [2026-11-05 17:22:09][main.main] [main.go:19] info信息[0m
